@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.7)  17 MAR 2022 08:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.7)  17 MAR 2022 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -486,115 +486,67 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 \openout4 = `Reporte.lof'.
 
  [2] [3] [4]
-<imagenes//Capture.png, id=24, 734.14275pt x 251.7405pt>
-File: imagenes//Capture.png Graphic file (type png)
-<use imagenes//Capture.png>
-Package pdftex.def Info: imagenes//Capture.png  used on input line 136.
-(pdftex.def)             Requested size: 396.43118pt x 135.93784pt.
-<imagenes//Capture2.png, id=26, 632.96475pt x 498.663pt>
-File: imagenes//Capture2.png Graphic file (type png)
-<use imagenes//Capture2.png>
-Package pdftex.def Info: imagenes//Capture2.png  used on input line 145.
-(pdftex.def)             Requested size: 341.79587pt x 269.274pt.
- [5 <./imagenes//Capture.png> <./imagenes//Capture2.png>]
-<imagenes//Capture4.png, id=33, 407.121pt x 279.444pt>
-File: imagenes//Capture4.png Graphic file (type png)
-<use imagenes//Capture4.png>
-Package pdftex.def Info: imagenes//Capture4.png  used on input line 169.
-(pdftex.def)             Requested size: 219.84207pt x 150.8975pt.
-<imagenes//Capture5.png, id=34, 310.15875pt x 209.583pt>
-File: imagenes//Capture5.png Graphic file (type png)
-<use imagenes//Capture5.png>
-Package pdftex.def Info: imagenes//Capture5.png  used on input line 178.
-(pdftex.def)             Requested size: 167.48323pt x 113.17313pt.
-<imagenes//Capture3.png, id=35, 416.757pt x 154.77824pt>
-File: imagenes//Capture3.png Graphic file (type png)
-<use imagenes//Capture3.png>
-Package pdftex.def Info: imagenes//Capture3.png  used on input line 187.
-(pdftex.def)             Requested size: 225.04543pt x 83.579pt.
- [6 <./imagenes//Capture4.png> <./imagenes//Capture5.png> <./imagenes//Capture3
-.png>]
-<imagenes//Capture6.png, id=43, 538.4115pt x 124.66576pt>
-File: imagenes//Capture6.png Graphic file (type png)
-<use imagenes//Capture6.png>
-Package pdftex.def Info: imagenes//Capture6.png  used on input line 198.
-(pdftex.def)             Requested size: 290.73788pt x 67.3185pt.
-<imagenes//Capture7.png, id=44, 581.7735pt x 194.52675pt>
-File: imagenes//Capture7.png Graphic file (type png)
-<use imagenes//Capture7.png>
-Package pdftex.def Info: imagenes//Capture7.png  used on input line 207.
-(pdftex.def)             Requested size: 314.15302pt x 105.04286pt.
-<imagenes//Capture9.png, id=45, 448.074pt x 71.0655pt>
-File: imagenes//Capture9.png Graphic file (type png)
-<use imagenes//Capture9.png>
-Package pdftex.def Info: imagenes//Capture9.png  used on input line 216.
-(pdftex.def)             Requested size: 241.95634pt x 38.37479pt.
-<imagenes//Capture8.png, id=46, 372.79276pt x 210.7875pt>
-File: imagenes//Capture8.png Graphic file (type png)
-<use imagenes//Capture8.png>
-Package pdftex.def Info: imagenes//Capture8.png  used on input line 225.
-(pdftex.def)             Requested size: 201.30508pt x 113.82355pt.
- [7 <./imagenes//Capture6.png> <./imagenes//Capture7.png> <./imagenes//Capture9
-.png> <./imagenes//Capture8.png>]
-<imagenes//Capture11.png, id=54, 780.516pt x 127.677pt>
-File: imagenes//Capture11.png Graphic file (type png)
-<use imagenes//Capture11.png>
-Package pdftex.def Info: imagenes//Capture11.png  used on input line 242.
-(pdftex.def)             Requested size: 421.47237pt x 68.94455pt.
-<imagenes//Capture12.png, id=55, 240.9pt x 22.8855pt>
-File: imagenes//Capture12.png Graphic file (type png)
-<use imagenes//Capture12.png>
-Package pdftex.def Info: imagenes//Capture12.png  used on input line 243.
-(pdftex.def)             Requested size: 130.08405pt x 12.35797pt.
- [8 <./imagenes//Capture11.png> <./imagenes//Capture12.png>]
-<imagenes//Capture10.png, id=61, 786.5385pt x 487.8225pt>
-File: imagenes//Capture10.png Graphic file (type png)
-<use imagenes//Capture10.png>
-Package pdftex.def Info: imagenes//Capture10.png  used on input line 261.
-(pdftex.def)             Requested size: 424.72447pt x 263.42023pt.
-<imagenes//Capture13.png, id=62, 757.02824pt x 115.632pt>
-File: imagenes//Capture13.png Graphic file (type png)
-<use imagenes//Capture13.png>
-Package pdftex.def Info: imagenes//Capture13.png  used on input line 270.
-(pdftex.def)             Requested size: 408.78917pt x 62.44034pt.
-<imagenes//Capture14.png, id=63, 763.05075pt x 155.3805pt>
-File: imagenes//Capture14.png Graphic file (type png)
-<use imagenes//Capture14.png>
-Package pdftex.def Info: imagenes//Capture14.png  used on input line 277.
-(pdftex.def)             Requested size: 412.04128pt x 83.9042pt.
- [9 <./imagenes//Capture10.png> <./imagenes//Capture13.png> <./imagenes//Captur
-e14.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 298--300
+<imagenes//modeloER.png, id=24, 963.6pt x 676.02562pt>
+File: imagenes//modeloER.png Graphic file (type png)
+<use imagenes//modeloER.png>
+Package pdftex.def Info: imagenes//modeloER.png  used on input line 135.
+(pdftex.def)             Requested size: 433.616pt x 304.20871pt.
+ [5 <./imagenes//modeloER.png>]
+<imagenes//modeloRelacional.png, id=29, 963.6pt x 787.44188pt>
+File: imagenes//modeloRelacional.png Graphic file (type png)
+<use imagenes//modeloRelacional.png>
+Package pdftex.def Info: imagenes//modeloRelacional.png  used on input line 154
+.
+(pdftex.def)             Requested size: 433.616pt x 354.34557pt.
+ [6 <./imagenes//modeloRelacional.png>]
+<imagenes//tablaCredencial.png, id=34, 574.39594pt x 176.15813pt>
+File: imagenes//tablaCredencial.png Graphic file (type png)
+<use imagenes//tablaCredencial.png>
+Package pdftex.def Info: imagenes//tablaCredencial.png  used on input line 173.
+
+(pdftex.def)             Requested size: 310.16917pt x 95.12396pt.
+<imagenes//tablaUsuario.png, id=36, 575.14874pt x 365.11406pt>
+File: imagenes//tablaUsuario.png Graphic file (type png)
+<use imagenes//tablaUsuario.png>
+Package pdftex.def Info: imagenes//tablaUsuario.png  used on input line 180.
+(pdftex.def)             Requested size: 310.5757pt x 197.15865pt.
+<imagenes//tablaCategoria.png, id=37, 573.64313pt x 175.40532pt>
+File: imagenes//tablaCategoria.png Graphic file (type png)
+<use imagenes//tablaCategoria.png>
+Package pdftex.def Info: imagenes//tablaCategoria.png  used on input line 187.
+(pdftex.def)             Requested size: 309.76266pt x 94.71745pt.
+ [7 <./imagenes//tablaCredencial.png> <./imagenes//tablaUsuario.png> <./imagene
+s//tablaCategoria.png>]
+<imagenes//tablaProducto.png, id=44, 573.64313pt x 315.42844pt>
+File: imagenes//tablaProducto.png Graphic file (type png)
+<use imagenes//tablaProducto.png>
+Package pdftex.def Info: imagenes//tablaProducto.png  used on input line 196.
+(pdftex.def)             Requested size: 309.76266pt x 170.32881pt.
+<imagenes//tablaVenta.png, id=45, 574.39594pt x 271.0125pt>
+File: imagenes//tablaVenta.png Graphic file (type png)
+<use imagenes//tablaVenta.png>
+Package pdftex.def Info: imagenes//tablaVenta.png  used on input line 203.
+(pdftex.def)             Requested size: 310.16917pt x 146.34456pt.
+ [8 <./imagenes//tablaProducto.png> <./imagenes//tablaVenta.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-[10]
-Underfull \hbox (badness 6125) in paragraph at lines 309--312
-[]\OT1/cmr/m/n/10 De Leon, D.  \OT1/cmr/m/it/10 Tablas en HTML  \OT1/cmr/m/n/1
-0 Re-cu-per-ado el 4 de marzo de 2022, de
+[9]
+Underfull \hbox (badness 4291) in paragraph at lines 241--244
+[]\OT1/cmr/m/n/10 Rus, E.  \OT1/cmr/m/it/10 Mod-elo Rela-cional.  \OT1/cmr/m/n/
+10 Re-cu-per-ado el 17 de marzo de 2022, de
  []
 
-
-Underfull \hbox (badness 1571) in paragraph at lines 314--317
-[]\OT1/cmr/m/n/10 Conclase  \OT1/cmr/m/it/10 For-mu-la-rios en doc-u-men-tos HT
-ML  \OT1/cmr/m/n/10 Re-cu-per-ado el 4 de marzo de 2022, de
- []
-
-
-Underfull \hbox (badness 2635) in paragraph at lines 319--322
-[]\OT1/cmr/m/n/10 OpenWebinars  \OT1/cmr/m/it/10 Que es HTML5  \OT1/cmr/m/n/10 
-Re-cu-per-ado el 4 de marzo de 2022, de
- []
-
-[11] (Reporte.aux) ) 
+[10] (Reporte.aux) ) 
 Here is how much of TeX's memory you used:
- 6713 strings out of 478659
- 117354 string characters out of 2845921
- 702621 words of memory out of 3000000
- 24731 multiletter control sequences out of 15000+600000
+ 6631 strings out of 478659
+ 115824 string characters out of 2845921
+ 701599 words of memory out of 3000000
+ 24649 multiletter control sequences out of 15000+600000
  407713 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,76p,462b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,76p,410b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\cafe_\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm1000.pk><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cafe_/AppData/Local/Programs/MiKTe
@@ -605,9 +557,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
 s/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mti12.pfb>
-Output written on Reporte.pdf (12 pages, 519151 bytes).
+Output written on Reporte.pdf (11 pages, 668042 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
