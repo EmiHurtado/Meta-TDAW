@@ -27,12 +27,19 @@
 	\vspace{1cm}
 	{\huge\Large \color{colorIPN}{Tecnologías para Desarrollo de Aplicaciones Web}.\par}
 	\vspace{1.5cm}
-	{\huge\Large  \color{colorESCOM}{Ejercicio 1 : Tablas y Formularios}\par}
+	{\huge\Large  \color{colorESCOM}{Avance del Proyecto: Aplicación Web para reporte de ventas de una tienda de conveniencia}\par}
 		\vspace{2cm}
 	{\Large\itshape \color{colorIPN}{Profesor: M. en C. José Asunción Enríquez Zárate}\par} \hfill \break
-	\vspace{2cm}
-	{\Large\itshape \color{colorIPN}{Alumno: Hurtado Morales Emiliano}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{Alumnos:}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{Hurtado Morales Emiliano}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{Martínez Armando}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{Aguirre Cassandra}\par} \hfill \break
+	\vspace{1cm}
+	{\Large\itshape \color{colorIPN}{Hernández Bryan}\par} \hfill \break
 	{\Large\itshape \color{colorIPN}{ehurtadom1700@alumno.ipn.mx}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{@alumno.ipn.mx}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{@alumno.ipn.mx}\par} \hfill \break
+	{\Large\itshape \color{colorIPN}{@alumno.ipn.mx}\par} \hfill \break
 	{\Large\itshape \color{colorIPN}{4CM3} \par}
 	\vfill
 	{\large \color{colorIPN}{\today}\par} 
@@ -70,42 +77,43 @@
 
 %################################################
 \section{\color{colorIPN}{Introducción}}
-HTML5 es la última versión de la tecnología HTML, cuyas siglas corresponden a “HyperText Markup Language”, que tiene el siguiente significado:
+El reporte de ventas es un informe donde se recogen las actividades comerciales de una empresa. Su objetivo es evaluar el desempeño del departamento comercial, las estrategias de ventas y el trabajo de los representantes, para  identificar fallas y oportunidades de mejora en los procesos. 
+
+La función principal del departamento comercial es atraer clientes, vender más y de forma más eficiente. El reporte de ventas es la herramienta que permite reunir y analizar el volumen de ventas de la empresa, determinar la efectividad de las acciones que realizas para generar ventas y evaluar la productividad de los agentes de ventas.
+
+\subsection{ \color{colorESCOM}{Modelo E-R}}
+Un modelo de entidad relación (modelo E-R) es el diseño de la estructura lógica de una base de datos, que luego se podrá implementar como una base de datos real. Los componentes principales del modelo E-R son un conjunto de entidades y de relaciones.
+
+Un modelo de entidad relación describe cosas de interés interrelacionadas en un dominio específico de conocimiento. En ingeniería de software, el modelo E-R se utiliza generalmente para incorporar cosas que necesita recordar una empresa para efectuar los procesos empresariales.
+
+\subsection{ \color{colorESCOM}{Modelo Relacional}}
+Un modelo relacional consiste en representar datos por medio de tablas relacionadas cuyas filas se llaman tuplas y las columnas variables, conformando así una base de datos.
+
+Existen una serie de términos formales que se corresponden con expresiones informales.
 
 \begin{itemize}
-	\item  HyperText, cuyo significado es hipertexto, que no es más que un texto que enlaza con otros contenidos, que pueden ser otro texto u otro archivo. Esto es la base del funcionamiento de la web tal y como la conocemos, que no es más que páginas y recursos interconectados.
-	\item  Markup, que significa marca o etiqueta, ya que todas las páginas web están construidas en base a etiquetas, desde las primeras versiones hasta las últimas etiquetas de HTML5. Un ejemplo de una etiqueta HTML es la que identifica a un párrafo, que se compone de la etiqueta, el contenido de la etiqueta y el cierre del párrafo.
-	\item Languaje, cuyo significado es lenguaje, porque HTML es un lenguaje, es decir, tiene sus normas, tiene su estructura y una serie de convenciones que nos sirven para definir tanto la estructura como el contenido de una web.
-	
+	\item La relación, que es el término formal, tiene en la tabla su equivalente informal.
+	\item La tupla no es más que un registro que se representa en las filas de la tabla y el atributo es una columna o campo.
+	\item La cardinalidad se refiere al número de filas o registros y el grado es el número de columnas o campos.
+	\item Por último, la clave primaria es un identificador único de cada caso.
 \end{itemize}
 
-\subsection{ \color{colorESCOM}{Formularios}}
-Un formulario HTML es una sección de un documento que contiene contenido normal, código, elementos especiales llamados controles (casillas de verificación (checkboxes), radiobotones (radio buttons), menúes, etc.), y rótulos (labels) en esos controles. Los usuarios normalmente "completan" un formulario modificando sus controles (introduciendo texto, seleccionando objetos de un menú, etc.), antes de enviar el formulario a un agente para que lo procese (p.ej., a un servidor web, a un servidor de correo, etc.)
+\subsection{ \color{colorESCOM}{Diccionario de Datos}}
+Un diccionario de datos trata de documentar los metadatos más ligados a su almacenamiento en la base de datos. Es decir, incluye aspectos técnicos como el tipo de dato, formato, longitud, posibles valores que puede tomar e, incluso, transformaciones sufridas, sin olvidar la definición de cada campo. 
 
-Los usuarios interaccionan con los formularios a través de los llamados controles.
-
-\subsection{ \color{colorESCOM}{Tablas}}
-Una tabla es un conjunto estructurado de datos distribuidos en filas y columnas (datos tabulados). Una tabla permite buscar con rapidez y facilidad valores entre diferentes tipos de datos que indiquen algún tipo de conexión.
-
-El aspecto básico de una tabla es que es un elemento rígido. Es fácil interpretar la información haciendo asociaciones visuales entre los encabezados de las filas y las columnas.
-
-\subsection{ \color{colorESCOM}{Trabajo}}
-El proyecto presentado a continuación es una unión de los formularios y tablas para realizar una solicitud de empleo en línea, empleando cada funcionalidad que provee estas herramientas de HTML.
-
+La documentación de estas transformaciones proporciona automáticamente el linaje del dato, entendido como la trazabilidad a lo largo de su ciclo de vida. Estos metadatos ayudan a los usuarios a entender los datos desde el punto de vista técnico para poder explotarlos adecuadamente. Por este motivo, cada base de datos debería contar con su diccionario de datos asociado. 
 \pagebreak
 
 %################################################
 \section{\color{colorIPN}{Conceptos}}
 
 \begin{itemize}
-	\item  HTML: Hace referencia al lenguaje de marcado para la elaboración de páginas web.
-	\item  Formulario: Documento, físico o digital, elaborado para que un usuario introduzca datos estructurados en las zonas correspondientes, para ser almacenados y procesados posteriormente.
-	\item  Tabla: Herramienta de organización de información que se utiliza en bases de datos en la informática.
-	\item Botón: Pieza que se pulsa o se hace girar para activar, interrumpir o regular el funcionamiento de un aparato o de un mecanismo.
-	\item Celda: Espacio o campo en donde se introducen los datos.
-	\item Fila: Serie ordenada de individuos o elementos que se disponen en línea horizontal.
-	\item Columna: Serie ordenada de individuos o elementos que se disponen en línea vertical.
-	\item Acción: Realización de un acto o hecho, o el efecto que produce determinado hecho en cuestión. 
+	\item  Entidad: Cualquier cosa en la empresa que se representará en la base de datos.
+	\item  Atributo: Describe la propiedad de una entidad.
+	\item  Atributo Clave: Identifica de forma exclusiva una entidad de un conjunto de entidades.
+	\item Relación: Muestra cómo se relacionan las entidades entre sí.
+	\item Cardinalidad: Especifica cuántas instancias de una entidad se relacionan con una instancia de otra entidad.
+	\item Tabla: Herramienta de organización de información que se utiliza en bases de datos en la informática.
 	
 \end{itemize}
 
@@ -113,12 +121,12 @@ El proyecto presentado a continuación es una unión de los formularios y tablas
 
 %################################################
 \section{\color{colorIPN}{Desarrollo}}
-En este apartado, se hará un seguimiento por el proceso de creación de la página web "Solicitud de Empleo", publicada en la URL: https://upbeat-swartz-2f3e65.netlify.app/
+En este apartado, se presenta la estructura general de la base de datos del proyecto Registro de Venta, mediante esta estructura se puede visualizar la manera en que se relacionan todos los elementos de la base de datos y los paquetes en los que se dividió la base de datos.
 
 %################################################
 \subsection{
 	\textit{
-		\color{colorESCOM}{Creación}
+		\color{colorESCOM}{Modelo E-R}
 	}
 }
 Se trabajó con el IDE Visual Studio Code para una mejor visualización del código y mayor facilidad de programar.
