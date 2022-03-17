@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.7)  17 MAR 2022 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.7)  17 MAR 2022 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -486,18 +486,18 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 \openout4 = `Reporte.lof'.
 
  [2] [3] [4]
-<imagenes//modeloER.png, id=24, 963.6pt x 676.02562pt>
+<imagenes//modeloER.png, id=24, 1284.8pt x 886.31125pt>
 File: imagenes//modeloER.png Graphic file (type png)
 <use imagenes//modeloER.png>
 Package pdftex.def Info: imagenes//modeloER.png  used on input line 135.
-(pdftex.def)             Requested size: 433.616pt x 304.20871pt.
+(pdftex.def)             Requested size: 449.68674pt x 310.21358pt.
  [5 <./imagenes//modeloER.png>]
-<imagenes//modeloRelacional.png, id=29, 963.6pt x 787.44188pt>
+<imagenes//modeloRelacional.png, id=29, 1284.8pt x 1055.945pt>
 File: imagenes//modeloRelacional.png Graphic file (type png)
 <use imagenes//modeloRelacional.png>
 Package pdftex.def Info: imagenes//modeloRelacional.png  used on input line 154
 .
-(pdftex.def)             Requested size: 433.616pt x 354.34557pt.
+(pdftex.def)             Requested size: 449.68674pt x 369.58629pt.
  [6 <./imagenes//modeloRelacional.png>]
 <imagenes//tablaCredencial.png, id=34, 574.39594pt x 176.15813pt>
 File: imagenes//tablaCredencial.png Graphic file (type png)
@@ -557,7 +557,7 @@ AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
 s/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mti12.pfb>
-Output written on Reporte.pdf (11 pages, 668042 bytes).
+Output written on Reporte.pdf (11 pages, 489195 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
