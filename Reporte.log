@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.7)  17 MAR 2022 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.7)  18 MAR 2022 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -379,23 +379,52 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count314
 
 (C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-(Reporte.aux)
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count315
+\U@D=\dimen262
+\l@unhyphenated=\language79
+
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count316
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks26
+\es@quotdepth=\count317
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (Reporte.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
 \openout1 = `Reporte.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -435,29 +464,63 @@ LaTeX Font Info:    ... okay on input line 21.
 (C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
-\scratchdimen=\dimen262
+\scratchcounter=\count318
+\scratchdimen=\dimen263
 \scratchbox=\box107
-\nofMPsegments=\count316
-\nofMParguments=\count317
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count318
-\MPscratchDim=\dimen263
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen264
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks28
 )
 (C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count321
+\c@lstlisting=\count324
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
  [1
 
 {C:/Users/cafe_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -466,12 +529,14 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 
 Package tasks Warning: You've tried setting option `counter-format' on line
-(tasks)                70. However, option `counter-format' is deprecated.
+(tasks)                71. However, option `counter-format' is deprecated.
 (tasks)                Please use option `label' instead. Refer to the manual
 (tasks)                for details.
 
 (Reporte.toc
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 2.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 3.
 
 
 (C:\Users\cafe_\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
@@ -481,85 +546,89 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 \openout3 = `Reporte.toc'.
 
 
-[1] (Reporte.lof)
+[1] (Reporte.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@lof=\write4
 \openout4 = `Reporte.lof'.
 
  [2] [3] [4]
-<imagenes//modeloER.png, id=24, 1284.8pt x 886.31125pt>
+<imagenes//modeloER.png, id=23, 1284.8pt x 886.31125pt>
 File: imagenes//modeloER.png Graphic file (type png)
 <use imagenes//modeloER.png>
-Package pdftex.def Info: imagenes//modeloER.png  used on input line 135.
+Package pdftex.def Info: imagenes//modeloER.png  used on input line 136.
 (pdftex.def)             Requested size: 449.68674pt x 310.21358pt.
  [5 <./imagenes//modeloER.png>]
-<imagenes//modeloRelacional.png, id=29, 1284.8pt x 1055.945pt>
+<imagenes//modeloRelacional.png, id=28, 1284.8pt x 1055.945pt>
 File: imagenes//modeloRelacional.png Graphic file (type png)
 <use imagenes//modeloRelacional.png>
-Package pdftex.def Info: imagenes//modeloRelacional.png  used on input line 154
+Package pdftex.def Info: imagenes//modeloRelacional.png  used on input line 155
 .
 (pdftex.def)             Requested size: 449.68674pt x 369.58629pt.
  [6 <./imagenes//modeloRelacional.png>]
-<imagenes//tablaCredencial.png, id=34, 574.39594pt x 176.15813pt>
+<imagenes//tablaCredencial.png, id=33, 574.39594pt x 176.15813pt>
 File: imagenes//tablaCredencial.png Graphic file (type png)
 <use imagenes//tablaCredencial.png>
-Package pdftex.def Info: imagenes//tablaCredencial.png  used on input line 173.
+Package pdftex.def Info: imagenes//tablaCredencial.png  used on input line 174.
 
 (pdftex.def)             Requested size: 310.16917pt x 95.12396pt.
-<imagenes//tablaUsuario.png, id=36, 575.14874pt x 365.11406pt>
+<imagenes//tablaUsuario.png, id=35, 575.14874pt x 365.11406pt>
 File: imagenes//tablaUsuario.png Graphic file (type png)
 <use imagenes//tablaUsuario.png>
-Package pdftex.def Info: imagenes//tablaUsuario.png  used on input line 180.
+Package pdftex.def Info: imagenes//tablaUsuario.png  used on input line 181.
 (pdftex.def)             Requested size: 310.5757pt x 197.15865pt.
-<imagenes//tablaCategoria.png, id=37, 573.64313pt x 175.40532pt>
+<imagenes//tablaCategoria.png, id=36, 573.64313pt x 175.40532pt>
 File: imagenes//tablaCategoria.png Graphic file (type png)
 <use imagenes//tablaCategoria.png>
-Package pdftex.def Info: imagenes//tablaCategoria.png  used on input line 187.
+Package pdftex.def Info: imagenes//tablaCategoria.png  used on input line 188.
 (pdftex.def)             Requested size: 309.76266pt x 94.71745pt.
  [7 <./imagenes//tablaCredencial.png> <./imagenes//tablaUsuario.png> <./imagene
 s//tablaCategoria.png>]
-<imagenes//tablaProducto.png, id=44, 573.64313pt x 315.42844pt>
+<imagenes//tablaProducto.png, id=43, 573.64313pt x 315.42844pt>
 File: imagenes//tablaProducto.png Graphic file (type png)
 <use imagenes//tablaProducto.png>
-Package pdftex.def Info: imagenes//tablaProducto.png  used on input line 196.
+Package pdftex.def Info: imagenes//tablaProducto.png  used on input line 197.
 (pdftex.def)             Requested size: 309.76266pt x 170.32881pt.
-<imagenes//tablaVenta.png, id=45, 574.39594pt x 271.0125pt>
+<imagenes//tablaVenta.png, id=44, 574.39594pt x 271.0125pt>
 File: imagenes//tablaVenta.png Graphic file (type png)
 <use imagenes//tablaVenta.png>
-Package pdftex.def Info: imagenes//tablaVenta.png  used on input line 203.
+Package pdftex.def Info: imagenes//tablaVenta.png  used on input line 204.
 (pdftex.def)             Requested size: 310.16917pt x 146.34456pt.
  [8 <./imagenes//tablaProducto.png> <./imagenes//tablaVenta.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 225--227
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
 
  []
 
 [9]
-Underfull \hbox (badness 4291) in paragraph at lines 241--244
-[]\OT1/cmr/m/n/10 Rus, E.  \OT1/cmr/m/it/10 Mod-elo Rela-cional.  \OT1/cmr/m/n/
-10 Re-cu-per-ado el 17 de marzo de 2022, de
+Underfull \hbox (badness 4739) in paragraph at lines 242--245
+[]\OT1/cmr/m/n/10 Rus, E.  \OT1/cmr/m/it/10 Mo-de-lo Re-la-cio-nal.  \OT1/cmr/m
+/n/10 Re-cu-pe-ra-do el 17 de mar-zo de 2022, de
  []
 
-[10] (Reporte.aux) ) 
+[10] (Reporte.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
 Here is how much of TeX's memory you used:
- 6631 strings out of 478659
- 115824 string characters out of 2845921
- 701599 words of memory out of 3000000
- 24649 multiletter control sequences out of 15000+600000
- 407713 words of font info for 43 fonts, out of 8000000 for 9000
+ 8490 strings out of 478659
+ 148554 string characters out of 2845921
+ 745602 words of memory out of 3000000
+ 26462 multiletter control sequences out of 15000+600000
+ 407378 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,76p,410b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\cafe_\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm1000.pk><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cafe_/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/cafe_/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/cafe_/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cafe_/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
-s/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb
-><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mti12.pfb>
-Output written on Reporte.pdf (11 pages, 489673 bytes).
+ 68i,8n,76p,410b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbxti10.pfb><C:/Users/cafe_/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cafe_/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/cafe_/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/cafe_/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Reporte.pdf (11 pages, 489293 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
